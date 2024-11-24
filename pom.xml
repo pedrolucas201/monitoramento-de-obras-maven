@@ -76,7 +76,6 @@
 
     <build>
         <plugins>
-            <!-- Plugin para compilar e rodar JavaFX -->
             <plugin>
                 <groupId>org.openjfx</groupId>
                 <artifactId>javafx-maven-plugin</artifactId>
@@ -90,6 +89,13 @@
                 </executions>
                 <configuration>
                     <mainClass>com.obrasmonitoramento.gui.ObraMonitorGUI</mainClass>
+                    <options>
+                        <!-- Caminho do JavaFX SDK -->
+                        <option>--module-path</option>
+                        <option>C:/javafx-sdk-21.0.5/lib</option>
+                        <option>--add-modules</option>
+                        <option>javafx.controls,javafx.fxml</option>
+                    </options>
                 </configuration>
             </plugin>
 
