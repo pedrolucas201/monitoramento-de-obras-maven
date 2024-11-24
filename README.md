@@ -120,9 +120,9 @@ Distribuído sob a Licença MIT. Veja `LICENSE` para mais informações.
 
 Se você tiver alguma dúvida, não hesite em abrir uma **issue** ou entrar em contato!
 
-- **Autor**: Seu Nome
-- **Email**: seu.email@example.com
-- **GitHub**: https://github.com/seu-usuario
+- **Autor**: Pedro Gomes
+- **Email**: pedrolkas15@gmail.com
+- **GitHub**: https://github.com/pedrolucas201
 ```
 
 Este arquivo `README.md` está completo com todos os detalhes necessários para a instalação, configuração e execução do projeto, bem como a estrutura das pastas e como contribuir com o repositório.
