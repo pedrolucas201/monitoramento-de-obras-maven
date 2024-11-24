@@ -1,5 +1,3 @@
-Claro, aqui está o conteúdo completo do seu `README.md`:
-
 ```markdown
 # Monitoramento de Obras
 
